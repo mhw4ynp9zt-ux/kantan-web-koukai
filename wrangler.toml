@@ -1,0 +1,7 @@
+name = "kantan-web-koukai"
+main = "worker.js"
+compatibility_date = "2026-09-01"
+
+[[r2_buckets]]
+binding = "SITES_BUCKET"
+bucket_name = "kantan-web-koukai-sites"
